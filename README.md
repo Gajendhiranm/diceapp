@@ -1,16 +1,5 @@
 # dice
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Day 6 : 
+![Screenshot 2023-05-01 010444](https://user-images.githubusercontent.com/48618592/235373182-50e9dad9-49ed-4977-b942-db0f8049068a.png)
